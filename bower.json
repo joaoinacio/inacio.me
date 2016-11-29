@@ -1,0 +1,21 @@
+{
+  "name": "inacio.me",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Joao Inacio"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/joaoinacio/inacio.me",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
